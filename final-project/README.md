@@ -5,7 +5,7 @@
 Heroku --> https://blog-poster-final-project.herokuapp.com/ <br>
 Video  --> https://www.youtube.com/watch?v=T0xMWM5yNy4
 
-<img src="https://github.com/MilesGregg/final_project/blob/main/login.png?raw=true" data-canonical-src="(https://github.com/MilesGregg/final_project/blob/main/login.png?raw=true" height="400" width="600"/>
+<img src="https://github.com/jacobchlebowski/webware-4241/blob/main/final-project/login.png?raw=true" data-canonical-src="(https://github.com/jacobchlebowski/webware-4241/blob/main/final-project/login.png?raw=true" height="400" width="600"/>
 
 We created a blog that will allow users to post various topics of their choosing and interact with other users. This static web page will be easy to navigate and feature seamless transitions with various content that users post. Overall, this project is technically open to whoever wants to voice their opinions/statements to the world.
 
@@ -25,7 +25,7 @@ Jacob- Cloudinary Cloud Storage, MongoDB database, and README<br>
 - **Two Factor Authentication**: This allows for users to have a secure login when signing into the Blogger page. A code is sent to the user's respective email upon attempting to sign in.
 
 
-<img src="https://github.com/MilesGregg/final_project/blob/main/verification.png" data-canonical-src="(https://github.com/MilesGregg/final_project/blob/main/verification.png" width="500" height="300" />
+<img src="https://github.com/jacobchlebowski/webware-4241/blob/main/final-project/verification.png" data-canonical-src="https://github.com/jacobchlebowski/webware-4241/blob/main/final-project/verification.png" width="500" height="300" />
 
 
 - **Heroku Implementation**: Website is successfully upload to [Heroku](https://www.heroku.com/) and can be accessed via the link above.
