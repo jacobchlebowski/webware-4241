@@ -49,7 +49,7 @@ I've styled my page using CSS by doing the following: <ul>
 </ul>
 <br>
 
-![**Color Palette**](https://github.com/jacobchlebowski/a1-gettingstarted/blob/main/color-palette.png?raw=true)
+![**Color Palette**](https://github.com/jacobchlebowski/webware-4241/blob/main/a1-gettingstarted/color-palette.png?raw=true)
 
 
 
